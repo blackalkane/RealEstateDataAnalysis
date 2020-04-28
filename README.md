@@ -1,6 +1,7 @@
 # RealEstateDataAnalysis
 
 Summary
+
 Every year, all property owners in BC have to pay property taxes—the single greatest
 operating expense. The property tax is determined based on property assessment and property
 tax rate (mill rates). This project will construct a predictive model to estimate property taxes
@@ -10,4 +11,5 @@ other areas. It might be helpful to perform separate analyses on Metro Vancouver
 improve prediction accuracy.
 
 Objectives
+
 To predict the property tax for a given property in Metro Vancouver for the upcoming year.
